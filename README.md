@@ -3,4 +3,4 @@
   
   Assim como o anexo no github;
   O link abaixo é referente a aplicação do "Portfolio Front End" online:  
-  https://willian-ferreira-frontend.vercel.app/
+  https://cv-online-willianferreira.vercel.app/
